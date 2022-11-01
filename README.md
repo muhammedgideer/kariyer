@@ -31,9 +31,11 @@ Kariyer isimli projem öncelikle iş veren-iş arayan buluşmasını sade ve anl
 
 
 <img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin1.JPG">
-<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin2.JPG">
-<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin1.JPG">
-<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin1.JPG">
-<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin1.JPG">
-<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin1.JPG">
-<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin1.JPG">
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a2.JPG">
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a3.JPG">
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a4.JPG">
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a5.JPG">
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a6.JPG">
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a7.JPG">
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a8.JPG">
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a9.JPG">
