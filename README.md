@@ -3,8 +3,10 @@ Kariyer isimli projem öncelikle iş veren-iş arayan buluşmasını sade ve anl
 İş verenin ilan verebileceği, iş arayanın da bu ilanlara başvurabileceği platform iki taraf için de çeşitli özellikler sunmaktadır.
 
 > ## İş Veren için sunulan özellikler:
+
 - İş veren kendisine özel admin paneline kullanıcı adı ve şifresiyle birlikte giriş sağlar.
-- Girişini sağladığı panelde **Üyeler, Kategoriler, Şirketler, İş İlanları, Staj İlanları, Hakkımızda ve Genel Ayarlar** başlıkları sunulur.
+- Girişini sağladığı panelde **Üyeler, Kategoriler, Şirketler, İş İlanları, Staj İlanları, Hakkımızda ve Genel Ayarlar** başlıkları sunulur. (Fotoğraf A.1.)
+
 - **Üyeler** sayfasında platforma üye olan iş arayanları görme, bilgilerini düzenleme ve üyeliklerini silme özelliklerine sahip olur.
 - **Kategoriler** sayfasında platformda yayınlayacağı iş ilanları için filtreleme özelliğini sunacağı başlıkları görme, ekleme, düzenleme ve silme özelliklerine sahip olur.
 - **Şirketler** sayfasında platfromda yayınlayacağı iş ilanlarının ait olduğu şirketleri görme, ekleme, düzenleme ve silme özelliklerine sahip olur.
@@ -25,3 +27,13 @@ Kariyer isimli projem öncelikle iş veren-iş arayan buluşmasını sade ve anl
 - **Kategori Detay** sayfasında aktif olan iş ve staj ilanlarınının sadece ilgili kategoriyle ilgili filtrelenmiş ilanların **İlan Adı, İlan Şirket, İlan Şehir, Ücret, Çalışma Şekli ve İlan Tarihi** bilgilerini görebilir.
 - **Başvuru** sayfasında ilan sayfalarında başvurusunu yapmak istediği ilan için **Ad, Soyad, Telefon, Email, Adres, Cinsiyet, Eğitim Durumu ve CV yükleme** bilgilerini doldurup başvurusunu gerçekleştirebilir.
 - **Hesabım** sayfasında **Mail adresi, Ad, Soyad, TC Kimlik No** bilgilerini görme ve düzenleme** ve **Şifre Değiştirme** seçeneklerine sahip olur.
+
+
+
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin1.JPG">
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin2.JPG">
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin1.JPG">
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin1.JPG">
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin1.JPG">
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin1.JPG">
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin1.JPG">
