@@ -4,16 +4,36 @@ Kariyer isimli projem öncelikle iş veren-iş arayan buluşmasını sade ve anl
 
 > ## İş Veren için sunulan özellikler:
 
-- İş veren kendisine özel admin paneline kullanıcı adı ve şifresiyle birlikte giriş sağlar.
-- Girişini sağladığı panelde **Üyeler, Kategoriler, Şirketler, İş İlanları, Staj İlanları, Hakkımızda ve Genel Ayarlar** başlıkları sunulur. (Fotoğraf A.1.)
+- İş veren kendisine özel admin paneline kullanıcı adı ve şifresiyle birlikte giriş sağlar. (Fotoğraf A.1.)
+- Girişini sağladığı panelde **Üyeler, Kategoriler, Şirketler, İş İlanları, Staj İlanları, Hakkımızda ve Genel Ayarlar** başlıkları sunulur. (Fotoğraf A.2.)
+- **Üyeler** sayfasında platforma üye olan iş arayanları görme, bilgilerini düzenleme ve üyeliklerini silme özelliklerine sahip olur. (Fotoğraf A.3.)
+- **Kategoriler** sayfasında platformda yayınlayacağı iş ilanları için filtreleme özelliğini sunacağı başlıkları görme, ekleme, düzenleme ve silme özelliklerine sahip olur. (Fotoğraf A.4.)
+- **Şirketler** sayfasında platfromda yayınlayacağı iş ilanlarının ait olduğu şirketleri görme, ekleme, düzenleme ve silme özelliklerine sahip olur. (Fotoğraf A.5.)
+- **İş İlanları** sayfasında platformda yayınlanacak iş ilanları için **İlan Adı, İlan Açıklaması, Şehir, Tarih, Çalışma Şekli, Pozisyon, Kategori, Ücret, Şirket** bilgilerini görme, ekleme, düzenleme ve silme özelliklerine sahip olur. (Fotoğraf A.6.)
+- **Staj İlanları** sayfasında platformda yayınlanacak iş ilanları için **İlan Adı, İlan Açıklaması, Şehir, Tarih, Çalışma Şekli, Pozisyon, Kategori, Ücret, Şirket** bilgilerini görme, ekleme, düzenleme ve silme özelliklerine sahip olur. (Fotoğraf A.7.)
+- **Hakkımızda** sayfasında platform hakkındaki bilgileri görme ve düzenleme özelliklerine sahip olur. (Fotoğraf A.8.)
+- **Genel Ayarlar** sayfasında platform için **Logo, Site Başlığı, Site Açıklaması, Site Anahtar Kelimeleri, Site Yazarı, Site GSM, Site Mail, Site Adres, Facebook Url, Instagram Url, Twitter Url** bilgilerini görme ve düzenleme özelliklerine sahip olur. (Fotoğraf A.9.)
 
-- **Üyeler** sayfasında platforma üye olan iş arayanları görme, bilgilerini düzenleme ve üyeliklerini silme özelliklerine sahip olur.
-- **Kategoriler** sayfasında platformda yayınlayacağı iş ilanları için filtreleme özelliğini sunacağı başlıkları görme, ekleme, düzenleme ve silme özelliklerine sahip olur.
-- **Şirketler** sayfasında platfromda yayınlayacağı iş ilanlarının ait olduğu şirketleri görme, ekleme, düzenleme ve silme özelliklerine sahip olur.
-- **İş İlanları** sayfasında platformda yayınlanacak iş ilanları için **İlan Adı, İlan Açıklaması, Şehir, Tarih, Çalışma Şekli, Pozisyon, Kategori, Ücret, Şirket** bilgilerini görme, ekleme, düzenleme ve silme özelliklerine sahip olur.
-- **Staj İlanları** sayfasında platformda yayınlanacak iş ilanları için **İlan Adı, İlan Açıklaması, Şehir, Tarih, Çalışma Şekli, Pozisyon, Kategori, Ücret, Şirket** bilgilerini görme, ekleme, düzenleme ve silme özelliklerine sahip olur.
-- **Hakkımızda** sayfasında platform hakkındaki bilgileri görme ve düzenleme özelliklerine sahip olur. 
-- **Genel Ayarlar** sayfasında platform için **Logo, Site Başlığı, Site Açıklaması, Site Anahtar Kelimeleri, Site Yazarı, Site GSM, Site Mail, Site Adres, Facebook Url, Instagram Url, Twitter Url** bilgilerini görme ve düzenleme özelliklerine sahip olur.
+
+<div align="center"><img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin1.JPG">&emsp;&emsp;
+<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a2.JPG"></div>
+<div align="center">(Fotoğraf A.1.)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Fotoğraf A.2.)</div>
+<div align="center"><img width="700px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a3.JPG"></div>
+<div align="center">(Fotoğraf A.3.)</div>
+<div align="center"><img width="700px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a4.JPG"></div>
+<div align="center">(Fotoğraf A.4.)</div>
+<div align="center"><img width="700px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a5.JPG"></div>
+<div align="center">(Fotoğraf A.5.)</div>
+<div align="center"><img width="700px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a6.JPG"></div>
+<div align="center">(Fotoğraf A.6.)</div>
+<div align="center"><img width="700px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a7.JPG"></div>
+<div align="center">(Fotoğraf A.7.)</div>
+<div align="center"><img width="700px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a8.JPG"></div>
+<div align="center">(Fotoğraf A.8.)</div>
+<div align="center"><img width="700px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a9.JPG"></div>
+<div align="center">(Fotoğraf A.9.)<br></div>
+
+
 
 > ## İş Arayan için sunulan özellikler:
 - İş arayan platfromda **Kayıt Ol** ve **Giriş Yap** seçenekleriyle tüm işlemlerini gerçekleştirebilir.
@@ -28,14 +48,3 @@ Kariyer isimli projem öncelikle iş veren-iş arayan buluşmasını sade ve anl
 - **Başvuru** sayfasında ilan sayfalarında başvurusunu yapmak istediği ilan için **Ad, Soyad, Telefon, Email, Adres, Cinsiyet, Eğitim Durumu ve CV yükleme** bilgilerini doldurup başvurusunu gerçekleştirebilir.
 - **Hesabım** sayfasında **Mail adresi, Ad, Soyad, TC Kimlik No** bilgilerini görme ve düzenleme** ve **Şifre Değiştirme** seçeneklerine sahip olur.
 
-
-
-<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/admin1.JPG">
-<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a2.JPG">
-<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a3.JPG">
-<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a4.JPG">
-<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a5.JPG">
-<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a6.JPG">
-<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a7.JPG">
-<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a8.JPG">
-<img width="300px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/a9.JPG">
