@@ -64,3 +64,11 @@ Kariyer isimli projem öncelikle iş veren-iş arayan buluşmasını sade ve anl
 <div align="center">(Resim K.8.)</div>
 <div align="center"><img width="700px" src="https://github.com/muhammedgideer/kariyer/blob/master/readme-images/k9.JPG"></div>
 <div align="center">(Resim K.9.)<br></div>
+
+
+> ## Sistemi Çalıştırmak İçin:
+- Öncelikle jobFinder klasörü ve jobfinder.sql dosyasını bilgisayarınıza indirmeniz gerekmektedir.
+- Platformu çalıştırmak için bilgisayarınıza (benim kullanmış olduğum) <a href="https://www.appserv.org/">AppServ</a> benzeri bir sunucu kurulumunu yapmanız gerekmektedir.
+- jobFinder klasörünü sunucunuza ve jobfinder dosyasını phpMyAdmin'e yüklemeniz gerekmektedir.
+- Bağlantı için kariyer/jobFinder/nedmin/netting/baglan.php üzerinden bağlantı ayarlarınızı düzenlemeniz gerekmektedir.
+Tüm bunları yaptıktan sonra platform başarılı bir şekilde çalışacaktır.
